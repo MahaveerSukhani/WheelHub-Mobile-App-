@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458366935407",
+    "project_id": "wheel-hub",
+    "storage_bucket": "wheel-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458366935407:android:d95263820bb1be8a25089a",
+        "android_client_info": {
+          "package_name": "com.company.wheelhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3kPhElyy_seFbsvIRci-tgcYuF1iOeq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

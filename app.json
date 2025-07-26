@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Wheel_Hub",
+    "slug": "Wheel_Hub",
+    "newArchEnabled": true,
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.Wheel_Hub",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "36b001b2-a707-46d2-9659-42b8400496b5"
+      }
+    }
+  }
+}
